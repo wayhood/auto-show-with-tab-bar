@@ -76,10 +76,10 @@
             </objects>
             <point key="canvasLocation" x="2246" y="624"/>
         </scene>
-        <!--Custorm Tab Bar View Controller-->
+        <!--Custorm Tab Bar Controller-->
         <scene sceneID="yl2-sM-qoP">
             <objects>
-                <tabBarController id="49e-Tb-3d3" customClass="CustormTabBarViewController" sceneMemberID="viewController">
+                <tabBarController id="49e-Tb-3d3" customClass="CustormTabBarController" sceneMemberID="viewController">
                     <nil key="simulatedBottomBarMetrics"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" id="W28-zg-YXA">
                         <rect key="frame" x="0.0" y="0.0" width="1920" height="120"/>

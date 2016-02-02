@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface CustormTabBarViewController : UITabBarController
+@interface CustormTabBarController : UITabBarController
 
 @end

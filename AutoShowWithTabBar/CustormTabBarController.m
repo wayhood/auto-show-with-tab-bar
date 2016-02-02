@@ -6,15 +6,15 @@
 //  Copyright © 2016年 wayhood. All rights reserved.
 //
 
-#import "CustormTabBarViewController.h"
+#import "CustormTabBarController.h"
 #import "FirstViewController.h"
 #import "SecondViewController.h"
 
-@interface CustormTabBarViewController ()
+@interface CustormTabBarController ()
 
 @end
 
-@implementation CustormTabBarViewController
+@implementation CustormTabBarController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

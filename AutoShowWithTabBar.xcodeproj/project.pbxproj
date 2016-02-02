@@ -13,7 +13,7 @@
 		C9DB08F11C60AA4500104227 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9DB08F01C60AA4500104227 /* SecondViewController.m */; };
 		C9DB08F41C60AA4500104227 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9DB08F21C60AA4500104227 /* Main.storyboard */; };
 		C9DB08F61C60AA4500104227 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9DB08F51C60AA4500104227 /* Assets.xcassets */; };
-		C9DB08FF1C60AA6B00104227 /* CustormTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9DB08FE1C60AA6B00104227 /* CustormTabBarViewController.m */; };
+		C9DB08FF1C60AA6B00104227 /* CustormTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9DB08FE1C60AA6B00104227 /* CustormTabBarController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,8 +28,8 @@
 		C9DB08F31C60AA4500104227 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C9DB08F51C60AA4500104227 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C9DB08F71C60AA4500104227 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C9DB08FD1C60AA6B00104227 /* CustormTabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustormTabBarViewController.h; sourceTree = "<group>"; };
-		C9DB08FE1C60AA6B00104227 /* CustormTabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustormTabBarViewController.m; sourceTree = "<group>"; };
+		C9DB08FD1C60AA6B00104227 /* CustormTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustormTabBarController.h; sourceTree = "<group>"; };
+		C9DB08FE1C60AA6B00104227 /* CustormTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustormTabBarController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,8 +64,8 @@
 			children = (
 				C9DB08E91C60AA4500104227 /* AppDelegate.h */,
 				C9DB08EA1C60AA4500104227 /* AppDelegate.m */,
-				C9DB08FD1C60AA6B00104227 /* CustormTabBarViewController.h */,
-				C9DB08FE1C60AA6B00104227 /* CustormTabBarViewController.m */,
+				C9DB08FD1C60AA6B00104227 /* CustormTabBarController.h */,
+				C9DB08FE1C60AA6B00104227 /* CustormTabBarController.m */,
 				C9DB08EC1C60AA4500104227 /* FirstViewController.h */,
 				C9DB08ED1C60AA4500104227 /* FirstViewController.m */,
 				C9DB08EF1C60AA4500104227 /* SecondViewController.h */,
@@ -158,7 +158,7 @@
 				C9DB08F11C60AA4500104227 /* SecondViewController.m in Sources */,
 				C9DB08EB1C60AA4500104227 /* AppDelegate.m in Sources */,
 				C9DB08EE1C60AA4500104227 /* FirstViewController.m in Sources */,
-				C9DB08FF1C60AA6B00104227 /* CustormTabBarViewController.m in Sources */,
+				C9DB08FF1C60AA6B00104227 /* CustormTabBarController.m in Sources */,
 				C9DB08E81C60AA4500104227 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -300,6 +300,7 @@
 				C9DB08FC1C60AA4500104227 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
