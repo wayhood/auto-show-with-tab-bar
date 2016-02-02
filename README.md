@@ -1,2 +1,4 @@
 # auto-show-with-tab-bar
-Auto Show With TabBar
+Auto Show With TabBar on tvOS
+
+
